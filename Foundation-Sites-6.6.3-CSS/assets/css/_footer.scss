@@ -1,0 +1,27 @@
+footer{
+    color:white;
+    background-color: transparent;
+    text-align: center;
+    padding: 50px 100px 50px 100px;
+    font-size: x-small;
+    font-family: $fontFamily;
+   
+    footer a{
+
+        display: block;
+        color: white;
+        font-size: x-small;
+    }
+
+    footer hr{
+        border-color: rgba(255, 255, 255, 0.2);
+        margin: 10px 0px;
+    }
+
+    footer a span {
+        font-weight: bolder;
+        font-size: x-small;
+        color: rgba(255, 255, 255, 0.5);
+        }
+        
+}

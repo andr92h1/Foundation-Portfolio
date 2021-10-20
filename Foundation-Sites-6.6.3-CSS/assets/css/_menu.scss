@@ -1,0 +1,11 @@
+.portfolio-menu {
+
+    padding: 50px 70px 50px 70px;
+    font-size: medium;
+    font-family: $fontFamily;
+}
+.portfolio-menu > ul> li > a:hover {
+
+    background-color: rgba(255, 255, 255, 0.1);
+
+}

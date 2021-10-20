@@ -1,0 +1,149 @@
+.portfolio-menu {
+  padding: 50px 70px 50px 70px;
+  font-size: medium;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.portfolio-menu > ul > li > a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+footer {
+  color: white;
+  background-color: transparent;
+  text-align: center;
+  padding: 50px 100px 50px 100px;
+  font-size: x-small;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+footer footer a {
+  display: block;
+  color: white;
+  font-size: x-small;
+}
+
+footer footer hr {
+  border-color: rgba(255, 255, 255, 0.2);
+  margin: 10px 0px;
+}
+
+footer footer a span {
+  font-weight: bolder;
+  font-size: x-small;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.wrap {
+  width: 90%;
+  margin: 0 auto;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.portfolio-menu {
+  padding: 50px 70px 50px 70px;
+  font-size: medium;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.portfolio-menu > ul > li > a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.hero {
+  color: whitesmoke;
+  text-align: center;
+  padding: 0px 100px 25px 100px;
+  font-size: smaller;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.hero .hero h2,
+.hero .hero p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  margin-left: 50px;
+}
+
+.main {
+  background-image: url("/Foundation-Sites-6.6.3-CSS/assets/img/webb.png");
+  background-color: whitesmoke;
+  text-align: left;
+  padding: 50px 100px 50px 100px;
+  font-size: medium;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.main p {
+  font-size: small;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.main h3 {
+  font-size: medium;
+  font-weight: bold;
+}
+
+.contact {
+  padding: 50px 30px 50px 30px;
+  display: inline;
+  color: white;
+  font-size: small;
+}
+
+.social {
+  padding: 50px 30px 50px 30px;
+  display: inline;
+  color: white;
+  font-size: small;
+}
+
+h4 {
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.active {
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.active .active1,
+.active .active2 {
+  font-weight: lighter;
+}
+
+footer {
+  color: white;
+  background-color: transparent;
+  text-align: center;
+  padding: 50px 100px 50px 100px;
+  font-size: x-small;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+footer a {
+  display: block;
+  color: white;
+  font-size: x-small;
+}
+
+footer hr {
+  border-color: rgba(255, 255, 255, 0.2);
+  margin: 10px 0px;
+}
+
+footer a span {
+  font-weight: bolder;
+  font-size: x-small;
+  color: rgba(255, 255, 255, 0.5);
+}
+/*# sourceMappingURL=app.css.map */
